@@ -6,7 +6,7 @@ Requires Node.js to run its dependencies.
 Look at package.json
 
 # Authors
-https://twitter.com/jonasschmedtman
+https://jonasschmedtman
 
 # License
 MIT
